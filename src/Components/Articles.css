@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+
+.article > h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.article > p{
+    font-family: 'Source Sans 2', sans-serif;
+}
+/* .container{
+    display: flex;
+}
+
+.articlesContainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 41px;
+    margin-bottom: 50px;
+}
+
+.articlesBox > h1{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 56px;
+    font-weight: 600;
+    color: #0E2368;
+    padding-left: 100px;
+    padding-top: 150px;
+    letter-spacing: 3px;
+    text-align: left; 
+}
+
+
+.articlesBox2 > h1{
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 56px;
+    font-weight: 600;
+    color: #0E2368;
+    padding-left: 100px;
+    padding-top: 150px;
+    letter-spacing: 3px;
+    text-align: left; 
+}
+
+.articles{
+    width: 381px;
+    padding: 20px 0px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.article{
+    width: 326px;
+}
+
+.articleImg{
+    height: 257px;
+    width: 326px;
+    border-radius: 20px;
+}
+
+.article > h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    color: #0E2368;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.article > p{
+    width: 295px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #444957;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.articleBtn{
+    padding: 12px 25px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    color: #424961;
+    border: 1px solid #424961;
+    margin-top: 30px;
+    margin-left: -150px;
+}
+
+
+.leftIcon,
+.rightIcon{
+    border: 1px solid #424961;
+    font-size: 20px;
+    cursor: pointer;
+    color: #424961;
+    border-radius: 2px;
+}
+
+.leftIcon{
+    margin-right: 10px;
+}
+
+.rightIcon{
+    margin-left: 10px;
+}
+
+.hide{
+    display: none;
+}
+
+.carouselContainer{
+    position: relative;
+}
+
+.leftIcon{
+    position: absolute;
+    bottom: 20px;
+    right: 49%;
+    z-index: 100;
+}
+
+.rightIcon{
+    position: absolute;
+    bottom: 20px;
+    left: 52%;
+    z-index: 100;
+}
+
+.pagination{
+    position: absolute;
+    bottom: 0px;
+    left: 50.7%;
+    z-index: 20;
+}
+ */

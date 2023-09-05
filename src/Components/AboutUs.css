@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+
+.aboutDetails > h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .AboutUs{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    height: 467px;
+    background-color: #f5f5f5;
+    position: relative;
+} 
+
+.aboutImg{
+   height: 468px; 
+}
+
+.aboutDetails{
+    margin-top: 100px;
+    margin-right: 90px;
+    height: 254px;
+    width: 447px;
+    
+}
+
+.aboutDetails > h1 {
+    font-family: 'Poppins', sans-serif;
+    color:#0E2368;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 27px;
+    width: 422px;
+}
+
+.aboutDetails > p {
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    width: 447px;
+}
+
+.aboutBtn{
+    margin-top: 40px;
+    padding: 12px 25px;
+    border-radius: 30px;
+    background-color: #E23744;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+} */

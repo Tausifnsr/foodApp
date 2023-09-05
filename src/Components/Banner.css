@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&family=Source+Sans+3:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+
+.details > h1 {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.details > p {
+    font-family: 'Open Sans', sans-serif;
+}

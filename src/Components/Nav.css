@@ -1,0 +1,38 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 107px;
+    height: 83px;
+    margin-top: 33px;
+    margin-left: 100px;
+}
+
+.navBtn{
+    height: 42px;
+    width: 122px;
+    margin-top: 32px;
+    margin-right: 41px;
+    background-color: transparent;
+    border-radius: 30px;
+    cursor: pointer;
+    z-index: 100;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+
+@media screen and (max-width: 376px) {
+    .logo{
+        display: none;
+    }
+
+    .navBtn{
+        position: absolute;
+        right: -90%;
+        font-size: 11px;
+        font-weight: 600;
+    }
+}

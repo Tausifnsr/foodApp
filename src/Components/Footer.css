@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@0,100;0,400;0,500;1,100;1,300;1,400;1,500&family=Source+Sans+3&display=swap');
+
+
+.title{
+    font-family: 'Source Sans 3',sans-serif;
+}
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.footer{
+    padding: 5rem;
+    margin-bottom:4; 
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoImg{
+    height: 125px;
+    width: 161px;
+}
+
+
+.title{
+    font-family: 'Source Sans 3',sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #0e2368;
+    margin-bottom: 14px;
+}
+
+.contactItems{
+    display: grid;
+    gap: 1rem;
+    width: 232px;
+    font-family: 'Source Sans 3',sans-serif;
+    font-weight: 400;
+    list-style: none;
+}
+
+.moreItems{
+    display: grid;
+    gap: 1rem;
+    font-family: 'Source Sans 3',sans-serif;
+    font-weight: 400;
+    list-style: none;
+}
+
+.socialItems{
+    font-size: 21px;
+    display: flex;
+    gap: 1.8rem;
+}
+
+.socialLinks{
+    position: relative
+}
+
+.copyRight{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    width: 200px;
+    font-weight: 400;
+    font-size: 14.66px;
+    color: #828B9C;
+} */
