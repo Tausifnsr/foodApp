@@ -101,7 +101,7 @@ function Articles() {
               );
             })}
           </div>
-          <div className="pagination1 absolute -bottom-9 left-44 lg:text-[22px] lg:left-[715px] lg:bottom-[-57px]">
+          <div className="pagination1 absolute -bottom-9 left-44 lg:text-[22px] lg:left-[705px] lg:bottom-[-57px]">
             1/2
           </div>
         </div>
@@ -121,7 +121,7 @@ function Articles() {
               );
             })}
           </div>
-          <div className="pagination2 absolute -bottom-10 left-44 lg:text-[22px] lg:left-[715px] lg:bottom-[-57px]">
+          <div className="pagination2 absolute -bottom-10 left-44 lg:text-[22px] lg:left-[705px] lg:bottom-[-57px]">
             2/2
           </div>
         </div>
